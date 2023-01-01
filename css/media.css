@@ -1,0 +1,392 @@
+@media (min-width:300px){
+    .time {
+        width: 100%;
+   display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+.days,
+.hours,
+.minutes,
+.seconds {
+ margin-top: 1%;
+}
+.days, .hours, .minutes, .seconds {
+    background-color: rgb(255, 232, 101);
+    padding: 18px;
+    color: black;
+    font-size: 19px;
+    border-radius: 30px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    margin-left: 3%;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: black;
+    bottom: 20px;
+    left: 10%;
+    position: absolute;
+}
+#Quote{
+    display:none ;
+    box-shadow: rgba(0,0,0,0.25) 0px 54px 55px,
+    rgba(0,0,0,0.12) 0px -12px 30px,
+    rgba(0,0,0,0.12) 0px 4px 6px,
+    rgba(0,0,0,0.17) 0px 12px 13px,
+    rgba(0,0,0,0.09) 0px -3px 5px ;
+    padding: 25px;
+    border-radius: 15px;
+    width: 75%;
+    position: absolute;
+    top: 35%;
+    left: 5%;
+    background-color: whitesmoke;
+    
+
+}
+#Quote h6{
+    text-align: center;
+    font-size:25px ;
+    font-family: fantasy;
+    color: brown;
+
+} 
+}
+@media (min-width:400px){
+    .time {
+        width: 100%;
+   display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+.days,
+.hours,
+.minutes,
+.seconds {
+ margin-top: 1%;
+}
+.days, .hours, .minutes, .seconds {
+    background-color: rgb(255, 232, 101);
+    padding: 18px;
+    color: black;
+    font-size: 19px;
+    border-radius: 30px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    margin-left: 3%;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: black;
+    bottom: 20px;
+    left: 20%;
+    position: absolute;
+}
+#Quote{
+    display:none ;
+    box-shadow: rgba(0,0,0,0.25) 0px 54px 55px,
+    rgba(0,0,0,0.12) 0px -12px 30px,
+    rgba(0,0,0,0.12) 0px 4px 6px,
+    rgba(0,0,0,0.17) 0px 12px 13px,
+    rgba(0,0,0,0.09) 0px -3px 5px ;
+    padding: 25px;
+    border-radius: 15px;
+    width: 75%;
+    position: absolute;
+    top: 35%;
+    left: 5%;
+    background-color: whitesmoke;
+    
+
+}
+#Quote h6{
+    text-align: center;
+    font-size:25px ;
+    font-family: fantasy;
+    color: brown;
+
+} 
+}
+@media (min-width:500px){
+    .time {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+.days,
+.hours,
+.minutes,
+.seconds {
+ margin-top: 1%;
+}
+.days, .hours, .minutes, .seconds {
+    background-color: rgb(255, 232, 101);
+    padding: 25px;
+    color: black;
+    font-size: 19px;
+    border-radius: 30px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    margin-left: 3%;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: black;
+    bottom: 20px;
+    left: 25%;
+    position: absolute;
+}
+#Quote{
+    display:none ;
+    box-shadow: rgba(0,0,0,0.25) 0px 54px 55px,
+    rgba(0,0,0,0.12) 0px -12px 30px,
+    rgba(0,0,0,0.12) 0px 4px 6px,
+    rgba(0,0,0,0.17) 0px 12px 13px,
+    rgba(0,0,0,0.09) 0px -3px 5px ;
+    padding: 25px;
+    border-radius: 15px;
+    width: 70%;
+    position: absolute;
+    top: 35%;
+    left: 10%;
+    background-color: whitesmoke;
+    
+
+}
+#Quote h6{
+    text-align: center;
+    font-size:30px ;
+    font-family: fantasy;
+    color: brown;
+
+} 
+}
+@media (min-width:600px){
+    .time {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+.days,
+.hours,
+.minutes,
+.seconds {
+ margin-top: 1%;
+}
+.days, .hours, .minutes, .seconds {
+    background-color: rgb(255, 232, 101);
+    padding: 25px;
+    color: black;
+    font-size: 19px;
+    border-radius: 30px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    margin-left: 3%;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: black;
+    bottom: 20px;
+    left: 30%;
+    position: absolute;
+}
+#Quote{
+    display:none ;
+    box-shadow: rgba(0,0,0,0.25) 0px 54px 55px,
+    rgba(0,0,0,0.12) 0px -12px 30px,
+    rgba(0,0,0,0.12) 0px 4px 6px,
+    rgba(0,0,0,0.17) 0px 12px 13px,
+    rgba(0,0,0,0.09) 0px -3px 5px ;
+    padding: 25px;
+    border-radius: 15px;
+    width: 60%;
+    position: absolute;
+    top: 35%;
+    left: 20%;
+    background-color: whitesmoke;
+    
+
+}
+#Quote h6{
+    text-align: center;
+    font-size:30px ;
+    font-family: fantasy;
+    color: brown;
+
+} 
+}
+@media (min-width:700px){
+    .time {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+.days,
+.hours,
+.minutes,
+.seconds {
+ margin-top: 1%;
+}
+.days, .hours, .minutes, .seconds {
+    background-color: rgb(255, 232, 101);
+    padding: 25px;
+    color: black;
+    font-size: 19px;
+    border-radius: 30px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    margin-left: 3%;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: black;
+    bottom: 20px;
+    left: 35%;
+    position: absolute;
+}
+#Quote{
+    display:none ;
+    box-shadow: rgba(0,0,0,0.25) 0px 54px 55px,
+    rgba(0,0,0,0.12) 0px -12px 30px,
+    rgba(0,0,0,0.12) 0px 4px 6px,
+    rgba(0,0,0,0.17) 0px 12px 13px,
+    rgba(0,0,0,0.09) 0px -3px 5px ;
+    padding: 25px;
+    border-radius: 15px;
+    width: 50%;
+    position: absolute;
+    top: 35%;
+    left: 25%;
+    background-color: whitesmoke;
+    
+
+}
+#Quote h6{
+    text-align: center;
+    font-size:30px ;
+    font-family: fantasy;
+    color: brown;
+
+} 
+}
+@media (min-width:800px){
+    .time {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+.days,
+.hours,
+.minutes,
+.seconds {
+ margin-top: 1%;
+}
+.days, .hours, .minutes, .seconds {
+    background-color: rgb(255, 232, 101);
+    padding: 25px;
+    color: black;
+    font-size: 19px;
+    border-radius: 30px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    margin-left: 3%;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: black;
+    bottom: 20px;
+    left: 40%;
+    position: absolute;
+}
+#Quote{
+    display:none ;
+    box-shadow: rgba(0,0,0,0.25) 0px 54px 55px,
+    rgba(0,0,0,0.12) 0px -12px 30px,
+    rgba(0,0,0,0.12) 0px 4px 6px,
+    rgba(0,0,0,0.17) 0px 12px 13px,
+    rgba(0,0,0,0.09) 0px -3px 5px ;
+    padding: 25px;
+    border-radius: 15px;
+    width: 40%;
+    position: absolute;
+    top: 35%;
+    left: 27%;
+    background-color: whitesmoke;
+    
+
+}
+#Quote h6{
+    text-align: center;
+    font-size:30px ;
+    font-family: fantasy;
+    color: brown;
+
+} 
+}
+@media (min-width:900px){
+    .time {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+.days,
+.hours,
+.minutes,
+.seconds {
+ margin-top: 1%;
+}
+.days, .hours, .minutes, .seconds {
+    background-color: rgb(255, 232, 101);
+    padding: 25px;
+    color: black;
+    font-size: 19px;
+    border-radius: 30px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    margin-left: 3%;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: black;
+    bottom: 20px;
+    left: 40%;
+    position: absolute;
+}
+#Quote{
+    display:none ;
+    box-shadow: rgba(0,0,0,0.25) 0px 54px 55px,
+    rgba(0,0,0,0.12) 0px -12px 30px,
+    rgba(0,0,0,0.12) 0px 4px 6px,
+    rgba(0,0,0,0.17) 0px 12px 13px,
+    rgba(0,0,0,0.09) 0px -3px 5px ;
+    padding: 25px;
+    border-radius: 15px;
+    width: 40%;
+    position: absolute;
+    top: 35%;
+    left: 30%;
+    background-color: whitesmoke;
+    
+
+}
+#Quote h6{
+    text-align: center;
+    font-size:30px ;
+    font-family: fantasy;
+    color: brown;
+
+} 
+}
